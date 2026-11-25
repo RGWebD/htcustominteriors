@@ -84,7 +84,7 @@ if(FINE&&!RM)$$('.btn.mag').forEach(b=>{b.addEventListener('pointermove',e=>{con
 /* tape-measure timeline: tape pulls out as you scroll */
 $$('.tl').forEach(tl=>{const tp=$('.tape-line i',tl),steps=$$('.step',tl);
  function upd(){const r=tl.getBoundingClientRect(),H=r.height;const k=RM?1:Math.min(1,Math.max(0,(innerHeight*.62-r.top)/H));tp.style.setProperty('--h',(k*100).toFixed(2)+'%');
-  steps.forEach(s=>{const sr=s.getBoundingClientRect();s.classList.toggle('lit',RM||sr.top+sr.height*.3<innerHeight*.62)})}
+  steps.forEach(s=>{const sr=s.getBoundingClientRect();if(RM||sr.top+sr.height*.3<innerHeight*.62)s.classList.add('lit')})}
  addEventListener('scroll',()=>requestAnimationFrame(upd),{passive:true});addEventListener('resize',upd);upd()});
 
 /* reviews carousel */
