@@ -1,0 +1,38 @@
+# H&T Custom Interiors
+
+> Cabinet maker and remodeling company in Graham, Texas. Rated 5.0 from 8 Google reviews.
+
+- Address: 1033 4th St, Graham, TX 76450
+- Phone: (940) 456-3734
+- Hours: Monday–Friday 8 AM–6 PM Central Time; closed Saturday and Sunday. Holiday hours may differ.
+- Google category: Cabinet maker
+- Google Maps: https://maps.app.goo.gl/E3Pw4QvxWSLH55m39
+
+## Work customers describe (from reviews and project photos; not an official service list)
+- Custom cabinets: Built for the room they go in. The work H&T is listed for, and the one customers mention most. (https://rgwebd.github.io/htcustominteriors/services.html#custom-cabinets)
+- Kitchen remodels: Islands, wall cabinets, counters and the details in between. (https://rgwebd.github.io/htcustominteriors/services.html#kitchen-remodels)
+- Bath remodels & custom vanities: Vanities and bathrooms built to fit, finished clean. (https://rgwebd.github.io/htcustominteriors/services.html#bath-remodels)
+- Built-ins & storage: Pantries, mudroom lockers, bunk beds and pull-outs. (https://rgwebd.github.io/htcustominteriors/services.html#built-ins)
+- Tile showers: Shower tile set straight and clean. (https://rgwebd.github.io/htcustominteriors/services.html#tile)
+- Flooring installs: New floors, and a house left spotless every day. (https://rgwebd.github.io/htcustominteriors/services.html#flooring)
+- Interior painting: Inside the house, in a good time frame. (https://rgwebd.github.io/htcustominteriors/services.html#painting)
+- Bigger projects: Several projects, one crew. Even a new shop. (https://rgwebd.github.io/htcustominteriors/services.html#bigger-projects)
+
+## Pages
+- Home: https://rgwebd.github.io/htcustominteriors/
+- Our Work (project photo gallery): https://rgwebd.github.io/htcustominteriors/work.html
+- Services: https://rgwebd.github.io/htcustominteriors/services.html
+- Reviews: https://rgwebd.github.io/htcustominteriors/reviews.html
+- Contact, hours, map and FAQ: https://rgwebd.github.io/htcustominteriors/contact.html
+
+## Google reviews (verbatim)
+- Becca T (a month ago): "We had custom cabinets built by H&T Custom Interiors and had a great experience working with them! They were very easy to work with, their pricing was reasonable, and the communication from the office was excellent. They kept us informed throughout the process and made sure everything was clearly explained. We would definitely recommend them to anyone looking for custom cabinets!"
+- Linda Bennington (a month ago): "Have had a lot of work done by Jonathan and his crew. Bath remodel including custom vanities, new shop, and kitchen work. They are excellent!! Very respectful and helpful solving problems. Fair pricing too."
+- David Solis (a year ago): "H&T Custom Interiors did an awesome job on our kitchen remodel. The quality and attention to detail were spot on. The cabinets look great, and the space turned out even better than I expected. Definitely recommend them if you’re looking for solid, professional work done right."
+- Larry Boer (11 months ago): "Highly recommend for any work needed around your house. Work was excellent, done professionally, and completely to our satisfaction. Very friendly and the house was left spotless every day when they left. Can’t say enough about how pleased we were."
+- Eilleen Farmer (7 months ago): "H&T did a fantastic job of painting the inside of the house in a good time frame. Will use again when we need them"
+- Carrol Sutherland (a year ago): "Very reasonable price and excellent work. He has done my cabinets, tiled a shower and is very good."
+- Nita Tucker and Javier Garcia left rating-only reviews.
+
+## Notes
+- This is a design preview built by RGWebD. To get a quote, call (940) 456-3734.
