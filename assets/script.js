@@ -111,9 +111,9 @@ chipsF.forEach(b=>b.addEventListener('click',()=>{const f=b.dataset.f;chipsF.for
 /* lightbox: cycles through the visible photos */
 const lb=$('.lbx');
 if(lb){const im=$('img',lb),cap=$('figcaption',lb),cnt=$('.lbx-c',lb),btns=$$('button',lb);let list=[],k=0,last=null;
- const vis=()=>$$('.gal-item').filter(i=>!i.classList.contains('hide'));
+ const vis=it=>[...it.parentElement.children].filter(i=>i.classList.contains('gal-item')&&!i.classList.contains('hide'));
  function show(n){k=(n+list.length)%list.length;const it=list[k],ti=$('img',it);im.src=it.dataset.full;im.alt=ti.alt;cap.textContent=ti.alt;cnt.textContent=(k+1)+' / '+list.length}
- $$('.gal-item').forEach(it=>it.addEventListener('click',()=>{list=vis();last=it;show(list.indexOf(it));lb.classList.add('open');lb.setAttribute('aria-hidden','false');d.body.style.overflow='hidden';$('.lbx-x',lb).focus()}));
+ $$('.gal-item').forEach(it=>it.addEventListener('click',()=>{list=vis(it);last=it;show(list.indexOf(it));lb.classList.add('open');lb.setAttribute('aria-hidden','false');d.body.style.overflow='hidden';$('.lbx-x',lb).focus()}));
  const close=()=>{lb.classList.remove('open');lb.setAttribute('aria-hidden','true');d.body.style.overflow='';last&&last.focus()};
  $('.lbx-x',lb).onclick=close;$('.lbx-p',lb).onclick=()=>show(k-1);$('.lbx-n',lb).onclick=()=>show(k+1);
  lb.addEventListener('click',e=>{if(e.target===lb)close()});
