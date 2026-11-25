@@ -154,9 +154,9 @@ p{margin:0 0 1em}
 .ticks b{color:var(--dk)}
 /* drawers */
 .drawers{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;perspective:1400px}
-.drawer{position:relative;aspect-ratio:3/4.3;border-radius:4px;overflow:hidden;background:#120d0a;box-shadow:inset 0 0 0 1px rgba(226,188,127,.12)}
+.drawer{position:relative;aspect-ratio:3/4.75;border-radius:4px;overflow:hidden;background:#120d0a;box-shadow:inset 0 0 0 1px rgba(226,188,127,.12)}
 .drawer-body{position:absolute;inset:0;display:flex;flex-direction:column;text-decoration:none;overflow:hidden;border-radius:4px}
-.drawer-ph{flex:none;height:56%;overflow:hidden}.drawer-tx{flex:1}.drawer-ph img{width:100%;height:100%;object-fit:cover;transition:transform .8s var(--ease)}
+.drawer-ph{flex:none;height:52%;overflow:hidden}.drawer-tx{flex:1}.drawer-ph img{width:100%;height:100%;object-fit:cover;transition:transform .8s var(--ease)}
 .drawer:hover .drawer-ph img{transform:scale(1.06)}
 .drawer-tx{padding:20px 20px 22px;background:linear-gradient(180deg,#2a1d14,#1d140e)}
 .drawer-tx .no{font:500 .72rem var(--mono);letter-spacing:.14em;color:var(--brass2)}
